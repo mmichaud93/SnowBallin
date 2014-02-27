@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowBallin", "SnowBallin\SnowBallin.csproj", "{70C9703A-BEF5-490E-ADA6-82F6A7CEC73F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70C9703A-BEF5-490E-ADA6-82F6A7CEC73F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C9703A-BEF5-490E-ADA6-82F6A7CEC73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C9703A-BEF5-490E-ADA6-82F6A7CEC73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C9703A-BEF5-490E-ADA6-82F6A7CEC73F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = SnowBallin\SnowBallin.csproj
+	EndGlobalSection
+EndGlobal

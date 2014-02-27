@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SnowBallin\Player.cs">
+    <Files>
+      <File FileName="SnowBallin\AppMain.cs" Line="13" Column="1" />
+      <File FileName="SnowBallin\MenuScene.cs" Line="38" Column="21" />
+      <File FileName="SnowBallin\GameStart.cs" Line="37" Column="19" />
+      <File FileName="SnowBallin\Game.cs" Line="77" Column="36" />
+      <File FileName="SnowBallin\Player.cs" Line="97" Column="31" />
+      <File FileName="SnowBallin\GameObject.cs" Line="54" Column="6" />
+      <File FileName="SnowBallin\Bullet.cs" Line="26" Column="22" />
+      <File FileName="SnowBallin\EntityCollider.cs" Line="150" Column="50" />
+      <File FileName="SnowBallin\Wall.cs" Line="15" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
